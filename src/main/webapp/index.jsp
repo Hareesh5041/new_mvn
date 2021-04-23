@@ -1,13 +1,16 @@
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Hello Java EE 70 Continuous Delivery!</title>
-    </head>
-    <body>
-        <h1> GOOD DAY </h1>
-        <h1> NICE DAY </h1>
-        <h1> New HTML code added </h1>  
-    </body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello World! DEV3L</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="jumbotron" style="background-color:white">
+      <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
+           class="img-responsive center-block" style="width:250px"/>
+      <h2 class="text-center">Hello World! DEV3L - v2.0</h2>
+      <p class="text-center">Now with Travis-CI!</p>
+  </div>
+</body>
 </html>
